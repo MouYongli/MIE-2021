@@ -7,7 +7,7 @@ Recommended citation: Mou Y, Welten S, Jaberansary M, Yediel YU, Kirsten T, Deck
 
 We used the ISIC Challenge 2019 Dataset. The dataset and basic statistics about the dataset can be found here: https://www.kaggle.com/andrewmvd/isic-2019.
 
-The metadata file for our FHIR server and sample images can be found in the [DataPreparation](./DataPreparation/README.md) folder.
+The metadata file for our FHIR server and sample images can be found in the [Data](./Data/README.md) folder.
 
 ## Used Components
 
